@@ -1,0 +1,16 @@
+co\edu\unicauca\microkernel\app\Main.class
+co\edu\unicauca\microkernel\pipeline\filters\OptionsValidationFilter.class
+co\edu\unicauca\microkernel\common\interfaces\QuestionPlugin.class
+co\edu\unicauca\microkernel\plugins\MultimediaQuestionPlugin.class
+co\edu\unicauca\microkernel\plugins\MultipleChoiceQuestionPlugin.class
+co\edu\unicauca\microkernel\core\QuestionMicrokernel.class
+co\edu\unicauca\microkernel\common\entities\Question.class
+co\edu\unicauca\microkernel\plugins\CaseQuestionPlugin.class
+co\edu\unicauca\microkernel\pipeline\filters\ClassificationFilter.class
+co\edu\unicauca\microkernel\pipeline\base\QuestionPipeline.class
+co\edu\unicauca\microkernel\pipeline\filters\CorrectAnswerValidationFilter.class
+co\edu\unicauca\microkernel\pipeline\filters\ContentValidationFilter.class
+co\edu\unicauca\microkernel\app\GUIMicrokernel.class
+co\edu\unicauca\microkernel\app\GUIMicrokernel$1.class
+co\edu\unicauca\microkernel\common\entities\QuestionRequest.class
+co\edu\unicauca\microkernel\pipeline\base\QuestionFilter.class
